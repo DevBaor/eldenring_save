@@ -1,4 +1,4 @@
-# ⚔️ Elden Ring Savegame Copy Tool
+# ⚔️ Elden Ring Savegame 
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Game Compatibility](https://img.shields.io/badge/Game-Elden%20Ring-yellow.svg)](https://en.wikipedia.org/wiki/Elden_Ring)
